@@ -65,6 +65,8 @@
             "QTouch",
             "PTC w Driven Shield (Peripheral Touch Controller)",
             "Human Interface",
+            "Slider",
+            "Button",
             "Sensor",
             "Sensors",
             "Touch sensing",
