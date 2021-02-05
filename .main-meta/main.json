@@ -4,8 +4,8 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny3217-t10-touch-example-studio",
-        "version": "1.0.0",
-        "displayName": "Touch Surface example using T10 and ATTiny3217",
+        "version": "1.0.1",
+        "displayName": "Touch example using T10 and ATTiny3217",
         "projectName": "attiny3217-t10-touch-example-studio",
         "shortDescription": "This example demonstrates the touch application on ATtiny3217 XPRO with T10 extension board.",
         "ide": {
