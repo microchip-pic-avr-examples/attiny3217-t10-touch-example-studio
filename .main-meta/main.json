@@ -7,7 +7,7 @@
         "version": "1.0.1",
         "displayName": "Touch example using T10 and ATTiny3217",
         "projectName": "attiny3217-t10-touch-example-studio",
-        "shortDescription": "This example demonstrates the touch application on ATtiny3217 XPRO with T10 extension board.",
+        "shortDescription": "This example demonstrates the touch application using a ATtiny3217 XPRO with T10 extension board.",
         "ide": {
             "name": "STUDIO",
             "semverRange": ">=7.0.2542"
